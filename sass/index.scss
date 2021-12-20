@@ -1,26 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-
+// variables and functions
 @import 'variables';
 
-* {
-	box-sizing: border-box;
-	font-family: 'Roboto Mono', monospace;
-}
+// base and layout
+@import 'base';
 
-html {
-	margin: 0;
-	padding: 0;
-	color: red;
-}
+// colors
 
-h1 {
-	color: $primary;
-	margin-bottom: $base-margin;
-}
+//components (button, card, navbar)
+@import 'components/card';
 
-a {
-	color: $secondary;
-}
+
+//utilities (margin, padding, opacity)
 
 button {
 	color: white;

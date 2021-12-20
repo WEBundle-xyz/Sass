@@ -8,7 +8,7 @@
 
 [2 - Variables in Sass ](../../tree/2e94518868624a55f6bbeefaeec4f2ad82c4abda/)
 
-[3 - Empty ](../../tree//)
+[3 - Partials Setup ](../../tree/feec036731fd87ae0041def621805a0593e2edcb/)
 
 [4 - Empty ](../../tree//)
 
