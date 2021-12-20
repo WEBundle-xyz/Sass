@@ -4,9 +4,9 @@
 
 #### 2021
 
-[1 - Sass__Project Setup ](../../tree/b3ca1a253b7ea9ec2b89a0c7281fc7aa8f87a188/)
+[1 - Sass - Project Setup ](../../tree/b3ca1a253b7ea9ec2b89a0c7281fc7aa8f87a188/)
 
-[2 - Using variables ](../../tree/a16bdd6512b3bcf6679753c762ad61519bd84eea/)
+[2 - Variables in Sass ](../../tree/2e94518868624a55f6bbeefaeec4f2ad82c4abda/)
 
 [3 - Empty ](../../tree//)
 
