@@ -20,8 +20,19 @@ $secondary: #1ac888;
 $error: #d32752;
 $info: #f6c32c;
 
+// spacing
+
+$base-padding: 0.75rem;
+$base-margin: 0.75rem;
+
+//borders
+
+$base-border-thickness: 1px;
+$base-border-radius: 20px;
+
 h1 {
 	color: $primary;
+	margin-bottom: $base-margin;
 }
 
 a {
@@ -32,16 +43,24 @@ button {
 	color: white;
 	border: 0;
 	border-style: solid;
+	border-radius: $base-border-radius;
+	padding: $base-padding;
 }
 
 .error {
 	color: $error;
 	border-color: $error;
 	border-style: solid;
+	margin: $base-margin;
+	border-radius: $base-border-radius;
+	border-width: $base-border-thickness;
 }
 
 .notification {
 	color: $secondary;
 	border-color: $secondary;
 	border-style: solid;
+	margin: $base-margin;
+	border-radius: $base-border-radius;
+	border-width: $base-border-thickness;
 }
